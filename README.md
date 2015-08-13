@@ -8,7 +8,7 @@ The purpose of this project is to demonstrate on how the team can work on the pr
 
 ##Tasks:
 
-1.Database and Connection to Java: Thanh
-2.Java code: Anjali
-3.Docummentation using Git and GitHub: Thanh, Anjali, Kwino and Ralph
+0. Database and Connection to Java: Thanh.
+0. Java code: Anjali.
+0. Docummentation using Git and GitHub: Thanh, Anjali, Kwino and Ralph.
 
